@@ -1,2 +1,5 @@
 # Hello-World
-Intro
+Name - Mahir Pokar
+Occupation - Student
+Languages known - C++ and Python
+
